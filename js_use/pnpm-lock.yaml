@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  js-pytorch:
+    specifier: ^0.3.6
+    version: 0.3.6
+
+packages:
+
+  /js-pytorch@0.3.6:
+    resolution: {integrity: sha512-vkSwcArH5m6AJ/zGuJW/JfrjnhZkHv6Jc7JizwmnhCkdK73nJIh/axnTB1ldK+/heF4G4FOdHkst+MSwxVkK9Q==}
+    dev: false
